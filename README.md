@@ -1,1 +1,0 @@
-This is Rick and Karen's art Gallery

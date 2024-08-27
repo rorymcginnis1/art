@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rick-and-Karens-Art/static/css/main.890c2d84.css",
+    "main.js": "/Rick-and-Karens-Art/static/js/main.747109fc.js",
+    "static/js/453.7d537966.chunk.js": "/Rick-and-Karens-Art/static/js/453.7d537966.chunk.js",
+    "index.html": "/Rick-and-Karens-Art/index.html",
+    "main.890c2d84.css.map": "/Rick-and-Karens-Art/static/css/main.890c2d84.css.map",
+    "main.747109fc.js.map": "/Rick-and-Karens-Art/static/js/main.747109fc.js.map",
+    "453.7d537966.chunk.js.map": "/Rick-and-Karens-Art/static/js/453.7d537966.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890c2d84.css",
+    "static/js/main.747109fc.js"
+  ]
+}
